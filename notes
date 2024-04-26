@@ -1,0 +1,44 @@
+ANI COUNI CHAOUANI	no	no	no	no	no	yes	
+Arapaho : yes	"Arapaho->English : yes
+Arapaho->French : yes"	
+NA	no	NA	"Children
+Teenagers 
+Adults 
+Seniors"	Easy	Traditional song	
+Chant traditionnel	North America	Colorado, 
+Amérique du Nord	Arapaho	Arapaho	VRAI											
+
+
+
+insert into song values (164,
+'ANI COUNI CHAOUANI',
+'A AJOUTER',
+'A AJOUTER',
+'A AJOUTER',
+'A AJOUTER',
+true,
+'A AJOUTER',
+'Children, Teenagers, Adults, Seniors',
+'Enfants, Adolescents, Adultes, Séniors',
+'Easy',
+'Facile',
+'North America',
+'Colorado', 
+'Amérique du Nord',
+'Arapaho',
+'Arapaho',
+'Traditional Song',
+'Chant traditionnel',
+'yes',
+'oui')
+
+
+declare @new_id INT ;
+set @new_id = 7 ;
+
+while (@new_id < 205)
+begin ;
+
+UPDATE song 
+SET id_song = (@new_id = @new_id + 1)
+ORDER BY id_song;
