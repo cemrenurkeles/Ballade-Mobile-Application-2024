@@ -1,0 +1,11 @@
+### Remarques pour l'entrée des données à la mallette pédagogique ###
+
+- Attention au ' : car sql ''
+
+- Attention au différents noms : NA , no, non etc.
+
+- Ne pas laisser vide
+
+
+Il faut que les données commencent avec la première donnée et pas # 
+Et finissent pas un #.
