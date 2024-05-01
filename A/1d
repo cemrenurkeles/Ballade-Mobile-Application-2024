@@ -1,0 +1,16 @@
+## Mon message avec les problèmes de BDD d'avant ##
+Bonjour @Yo Fujiso, j’ai quelques points à discuter avec toi, ces sont mes idées pour la suite
+D'abord, je te propose de créer  une nouvelle base des données  et de le remplir très facilement grâce au programme que j’ai codé : Il prend les données de tableau Excel (mallette pédagogique) en entrée et en sortie, il nous fournit le code SQL pour ajouter une ligne à la base des données automatiquement. En ce moment, j’arrive à faire ça une par une (ligne)  en 30 secondes, mais je travaille pour qu’il fasse le conversion pour au moins 10 lignes en une fois. Je suis presque arrivée à faire ça.
+ 
+Parce qu’avec la base des données qu’on a maintenant, je pense qu’on aura beaucoup des problèmes au futur comme:
+Filtres : ils ne vont pas marcher comme on veut car les données ne sont pas entrées comme il faut
+Des bools mais plusieurs types : TRUE, yes, Oui = problème lors de la prochaine étape (codage en Dart demande d’être le plus unique possible (type unique : true & false )
+Stockage des termes de différentes langues dans la base des données = d’après mes recherches : En Dart, comme dans de nombreux autres langages de programmation, il est habituel de stocker les termes de différentes langues dans des fichiers de ressources plutôt que dans une base de données. J’essaie d’apprendre plus sur ces fichiers de ressources mais ça veut dire que c’est une erreur de les stocker dans la base des données. Ils occupent une place pour rien car ça doit être lors d’affichage que l’application change systématiquement le terme en question à partir de fichier de ressource. Comme ça, c’est juste une fois : enfant = children donc pas besoin d’une colonne entière dans la base des données…
+Et donc, je te propose que je fasse un autre tableau (song_1) avec toutes les chansons. Et que la différence de song_1 soit :
+Bool pour les variables enfants, ado etc.
+Aussi, des bool pour les types de chanson (médiévale, traditionnelle etc.)
+Je vais regarder mais pour les instruments aussi je pense qu’on peut faire des bool : à discuter
+Pas des colonnes différentes pour les langues = pas children et enfant country et pays
+Pour les liens par contre je pense qu’il va falloir les ajouter à la main ce qui n’existent pas encore au tableau song À DISCUTER
+Je peux finir la nouvelle base des données à la fin de cette semaine, si tu valides.
+Et si tu dis non pour créer une nouvelle base des données à cause d’une raison ou l’autre, je peux faire jusqu’à demain l’ajout des chansons qui n’existent pas et de corriger les song_id s. J’ai trouvé comment faire 🤓 J’attends ta réponse.
