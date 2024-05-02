@@ -8,7 +8,7 @@ Initially, decided to proceed line by line, but realized that it is more logical
 
 A program was written to be able to add an entire column with a single click: **colonne.c** file.
 
-To use the program, "#" must be added after each data (after each line) so that the program understands that it is a new line.
+To use the program, "#" must be added after each data (after each line) so that the program understands that it is an another line.
 
 An example of data to provide would be: 
 
