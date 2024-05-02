@@ -14,9 +14,9 @@ Un exemple de données à fournir serait : Facile # Facile # Avancé #
 
 #### 1c) Pour les données textuelles qu'on n'a pas besoin de modifier le contenu,j'ai fait une colonne des "#" à côté de la colonne qui contient les données pour ajouter un "#" entre chaque ligne, comme vous pouvez le voir dans le document Excel 1c.xlsx.
 
-#### 1d) Pour les données textuelles dont le contenu n'a pas besoin d'être modifié, mais qui contient des retours à la ligne, j'ai aligné les "#" entre chaque ligne en fonction de la taille de chaque ligne, comme vous pouvez le voir dans le document Excel 1d.xlsx.
+   ![1c](/images/1c.png)
 
-   ![1d](/images/1d.png)
+#### 1d) Pour les données textuelles dont le contenu n'a pas besoin d'être modifié, mais qui contient des retours à la ligne, j'ai aligné les "#" entre chaque ligne en fonction de la taille de chaque ligne, comme vous pouvez le voir dans le document Excel 1d.xlsx.
 
 Remarque : Les colonnes 'avant' ou 'avant modification' ne doivent pas exister, elles sont là pour montrer les modifications effectuées.
 
