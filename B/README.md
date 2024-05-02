@@ -1,20 +1,24 @@
-## Précisions sur les étapes de mon travail de de 28 avril au 1er mai
+# Steps of my work from April 28th to May 1st
 
-## Tache : Nouvelle base des données
+## Task : New database
 
-D'abord, j'avais décidé de progresser ligne par ligne, mais j'ai réalisé qu'il était plus logique de progresser colonne par colonne. Ainsi, je n'aurais pas à recommencer depuis le début lorsque je voulais ajouter une nouvelle colonne.  
+Initially, decided to proceed line by line, but realized that it is more logical to proceed column by column. This way, there wouldn't be a need to start over from the beginning when adding a new column.
 
-#### 1a) J'ai écrit un programme pour pouvoir ajouter toute une colonne en un seul clic: fichier colonne.c
+### Step 1: Program to add a column
 
-Pour pouvoir utiliser le programme, il faut ajouter un "#" après chaque donnée (après chaque ligne) pour que le programme comprend qu'il s'agissait de nouvelles données. 
+A program was written to be able to add an entire column with a single click: **colonne.c** file.
 
-Un exemple de données à fournir serait : Facile # Facile # Avancé #
+To use the program, "#" must be added after each data (after each line) so that the program understands that these are new data.
 
-#### 1b) Pour pouvoir utiliser le programme correctement, il faut d'abord apporter des modifications aux données Excel. Ces modifications variaient en fonction de type des données que je devais entrer. 
+An example of data to provide would be: Easy # Easy # Advanced #
 
-#### 1c) Pour les données textuelles qu'on n'a pas besoin de modifier le contenu,j'ai fait une colonne des "#" à côté de la colonne qui contient les données pour ajouter un "#" entre chaque ligne, comme vous pouvez le voir dans le document Excel 1c.xlsx.
+### Step 2 : Modifications that had to be made to the Excel data
 
-   ![1c](/images/1c.png)
+To use the program correctly, modifications had to be made to the Excel data. These modifications varied depending on the type of data to enter.
+
+**For textual data that doesn't need modification of the content**, a column of "#" was made next to the column containing the data to add a "#" between each line, as seen in the Excel document 1c.xlsx and in the image below.
+
+   ![1c]/1c.png)
 
 #### 1d) Pour les données textuelles dont le contenu n'a pas besoin d'être modifié, mais qui contient des retours à la ligne, j'ai aligné les "#" entre chaque ligne en fonction de la taille de chaque ligne, comme vous pouvez le voir dans le document Excel 1d.xlsx.
 
