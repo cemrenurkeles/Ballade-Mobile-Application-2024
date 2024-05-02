@@ -16,13 +16,15 @@ An example of data to provide would be:
 
 ### Step 2 : Modifications that had to be made to the Excel data
 
-To use the program correctly, modifications had to be made to the Excel data. These modifications varied depending on the type of data to enter.
+To use the program correctly, modifications had to be made to the excel data. These modifications varied depending on the type of data to enter.
 
-**For textual data that doesn't need modification of the content**, a column of "#" was made next to the column containing the data to add a "#" between each line, as seen in the Excel document 1c.xlsx and in the image below.
+**For textual data that doesn't need modification of the content**, a column of "#" was made next to the column containing the data to add a "#" between each line, as seen in the excel file 1c.xlsx and in the image below.
 
 ![1c](/B/1c.png)
 
-#### 1d) Pour les données textuelles dont le contenu n'a pas besoin d'être modifié, mais qui contient des retours à la ligne, j'ai aligné les "#" entre chaque ligne en fonction de la taille de chaque ligne, comme vous pouvez le voir dans le document Excel 1d.xlsx.
+**For textual data that content doesn't need modification but contains line breaks,** "#" was aligned between each line according to the size of each line, as seen in the excel file 1d.xlsx and in the image below.
+
+![1c](/B/1d.png)
 
 Remarque : Les colonnes 'avant' ou 'avant modification' ne doivent pas exister, elles sont là pour montrer les modifications effectuées.
 
