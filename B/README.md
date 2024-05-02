@@ -1,6 +1,6 @@
 # Steps of my work from April 28th to May 1st
 
-## Task : New database
+## Task : New database from an excel file
 
 Initially, decided to proceed line by line, but realized that it is more logical to proceed column by column. This way, there wouldn't be a need to start over from the beginning when adding a new column.
 
@@ -10,7 +10,9 @@ A program was written to be able to add an entire column with a single click: **
 
 To use the program, "#" must be added after each data (after each line) so that the program understands that these are new data.
 
-An example of data to provide would be: Easy # Easy # Advanced #
+An example of data to provide would be: 
+
+![1a](/B/1a.png)
 
 ### Step 2 : Modifications that had to be made to the Excel data
 
