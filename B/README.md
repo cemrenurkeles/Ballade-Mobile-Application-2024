@@ -18,7 +18,7 @@ To use the program correctly, modifications had to be made to the Excel data. Th
 
 **For textual data that doesn't need modification of the content**, a column of "#" was made next to the column containing the data to add a "#" between each line, as seen in the Excel document 1c.xlsx and in the image below.
 
-   ![1c]1c.png)
+![1c](/B/1c.png)
 
 #### 1d) Pour les données textuelles dont le contenu n'a pas besoin d'être modifié, mais qui contient des retours à la ligne, j'ai aligné les "#" entre chaque ligne en fonction de la taille de chaque ligne, comme vous pouvez le voir dans le document Excel 1d.xlsx.
 
