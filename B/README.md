@@ -40,7 +40,7 @@ During substitution, when modifying cell contents, only TRUE and FALSE should re
 
 **For textual data whose content needs modification:** modifications were made using Ctrl+F and the replace tool, as seen in the Excel document 1f.xlsx and in the image below.
 
-![1e](/B/1e.png)
+![1e](/B/1f.png)
 
 Beneficiaries' case (as you see in the image) required modifying content and making them booleans too. For example, to make booleans for 'Children': all other beneficiaries were removed by replacing them with empty. 
 For instance, 'Adults' was replaced with empty. The same for 'Seniors' and 'Teenagers'. 
