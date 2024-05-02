@@ -4,17 +4,19 @@
 
 D'abord, j'avais décidé de progresser ligne par ligne, mais j'ai réalisé qu'il était plus logique de progresser colonne par colonne. Ainsi, je n'aurais pas à recommencer depuis le début lorsque je voulais ajouter une nouvelle colonne.  
 
-### 1a) J'ai écrit un programme pour pouvoir ajouter toute une colonne en un seul clic: fichier colonne.c
+#### 1a) J'ai écrit un programme pour pouvoir ajouter toute une colonne en un seul clic: fichier colonne.c
 
 Pour pouvoir utiliser le programme, il faut ajouter un "#" après chaque donnée (après chaque ligne) pour que le programme comprend qu'il s'agissait de nouvelles données. 
 
 Un exemple de données à fournir serait : Facile # Facile # Avancé #
 
-### 1b) Pour pouvoir utiliser le programme correctement, il faut d'abord apporter des modifications aux données Excel. Ces modifications variaient en fonction de type des données que je devais entrer. 
+#### 1b) Pour pouvoir utiliser le programme correctement, il faut d'abord apporter des modifications aux données Excel. Ces modifications variaient en fonction de type des données que je devais entrer. 
 
-### 1c) Pour les données textuelles qu'on n'a pas besoin de modifier le contenu,j'ai fait une colonne des "#" à côté de la colonne qui contient les données pour ajouter un "#" entre chaque ligne, comme vous pouvez le voir dans le document Excel 1c.xlsx.
+#### 1c) Pour les données textuelles qu'on n'a pas besoin de modifier le contenu,j'ai fait une colonne des "#" à côté de la colonne qui contient les données pour ajouter un "#" entre chaque ligne, comme vous pouvez le voir dans le document Excel 1c.xlsx.
 
-### 1d) Pour les données textuelles dont le contenu n'a pas besoin d'être modifié, mais qui contient des retours à la ligne, j'ai aligné les "#" entre chaque ligne en fonction de la taille de chaque ligne, comme vous pouvez le voir dans le document Excel 1d.xlsx.
+#### 1d) Pour les données textuelles dont le contenu n'a pas besoin d'être modifié, mais qui contient des retours à la ligne, j'ai aligné les "#" entre chaque ligne en fonction de la taille de chaque ligne, comme vous pouvez le voir dans le document Excel 1d.xlsx.
+
+   ![1d](/images/1d.png)
 
 Remarque : Les colonnes 'avant' ou 'avant modification' ne doivent pas exister, elles sont là pour montrer les modifications effectuées.
 
