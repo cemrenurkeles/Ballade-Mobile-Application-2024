@@ -1,12 +1,15 @@
-## Précisions sur les étapes de mon travail du 25/04/2024 au 01/05/2024 ##
+## Steps of my work from April 25th 2024 to May 6th 2024 ##
 
-- Ajouter les chansons manquants : répertoire A pour les fichiers
-de 25 avril au 28 avril
+- **Adding missing songs**: From April 25th to April 28th
+Directory A for the files
 
-Résultat : je propose l'idée de créer une nouvelle base de données.
+Result: I propose the idea of creating a new database.
 
-- Nouvelle base des données : répertoire B pour les fichiers
-de 28 avril au 1er mai
+- **New database**: From April 28th to May 1st
+Directory B for the files
 
-Résultat : créée avec succès , + programme pour ajouter une colonne
+Result: successfully created, + program to add a column
 
+- **GitHub documentation**: From May 1st to May 6th
+
+ Result: successfully created, + studying Dart on the side
