@@ -4,7 +4,7 @@
 
 Directory A for the files
 
-Result: I propose the idea of creating a new database.
+Result: Proposed the idea of creating a new database.
 
 - **New database**: From April 28th to May 1st
 
