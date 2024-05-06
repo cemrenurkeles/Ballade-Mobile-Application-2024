@@ -1,16 +1,18 @@
-## Mon message avec les problèmes de BDD d'avant ##
-Bonjour @Yo Fujiso, j’ai quelques points à discuter avec toi, ces sont mes idées pour la suite
-D'abord, je te propose de créer  une nouvelle base des données  et de le remplir très facilement grâce au programme que j’ai codé : Il prend les données de tableau Excel (mallette pédagogique) en entrée et en sortie, il nous fournit le code SQL pour ajouter une ligne à la base des données automatiquement. En ce moment, j’arrive à faire ça une par une (ligne)  en 30 secondes, mais je travaille pour qu’il fasse le conversion pour au moins 10 lignes en une fois. Je suis presque arrivée à faire ça.
- 
-Parce qu’avec la base des données qu’on a maintenant, je pense qu’on aura beaucoup des problèmes au futur comme:
-Filtres : ils ne vont pas marcher comme on veut car les données ne sont pas entrées comme il faut
-Des bools mais plusieurs types : TRUE, yes, Oui = problème lors de la prochaine étape (codage en Dart demande d’être le plus unique possible (type unique : true & false )
-Stockage des termes de différentes langues dans la base des données = d’après mes recherches : En Dart, comme dans de nombreux autres langages de programmation, il est habituel de stocker les termes de différentes langues dans des fichiers de ressources plutôt que dans une base de données. J’essaie d’apprendre plus sur ces fichiers de ressources mais ça veut dire que c’est une erreur de les stocker dans la base des données. Ils occupent une place pour rien car ça doit être lors d’affichage que l’application change systématiquement le terme en question à partir de fichier de ressource. Comme ça, c’est juste une fois : enfant = children donc pas besoin d’une colonne entière dans la base des données…
-Et donc, je te propose que je fasse un autre tableau (song_1) avec toutes les chansons. Et que la différence de song_1 soit :
-Bool pour les variables enfants, ado etc.
-Aussi, des bool pour les types de chanson (médiévale, traditionnelle etc.)
-Je vais regarder mais pour les instruments aussi je pense qu’on peut faire des bool : à discuter
-Pas des colonnes différentes pour les langues = pas children et enfant country et pays
-Pour les liens par contre je pense qu’il va falloir les ajouter à la main ce qui n’existent pas encore au tableau song À DISCUTER
-Je peux finir la nouvelle base des données à la fin de cette semaine, si tu valides.
-Et si tu dis non pour créer une nouvelle base des données à cause d’une raison ou l’autre, je peux faire jusqu’à demain l’ajout des chansons qui n’existent pas et de corriger les song_id s. J’ai trouvé comment faire 🤓 J’attends ta réponse.
+My message regarding the previous database issues
+
+Hello @Yo Fujiso, I have some points to discuss with you, here are my ideas for the next steps.
+
+Firstly, I suggest creating a new database and filling it very easily using the program I've coded: It takes data from an Excel spreadsheet (educational kit) as input and provides us with the SQL code to add a line to the database automatically. At the moment, I can do this one by one (line) in 30 seconds, but I'm working on making it convert at least 10 lines at a time. I'm almost there.
+
+Because with the current database we have, I think we'll encounter many problems in the future such as:
+Filters: They won't work as desired because the data isn't entered correctly.
+Booleans but multiple types: TRUE, yes, Oui = problem for the next step (Dart coding requires being as unique as possible (unique type: true & false)
+Storing terms in different languages ​​in the database = according to my research: In Dart, as in many other programming languages, it is common to store terms in different languages ​​in resource files rather than in a database. I'm trying to learn more about these resource files but it means it's a mistake to store them in the database. They take up space for nothing because it should be during display that the application systematically changes the term in question from the resource file. Like this, it's just once: child = children so no need for an entire column in the database…
+So, I propose that I create another table (song_1) with all the songs. And that the difference with song_1 be:
+Bool for variables like children, teen, etc.
+Also, bool for song types (medieval, traditional, etc.)
+I'll look into it, but for instruments, I think we can also use bool: to be discussed.
+Not different columns for languages ​​= not children and child country and country.
+For the links, however, I think we'll have to add them manually which don't yet exist in the song table TO BE DISCUSSED
+I can finish the new database by the end of this week, if you approve.
+And if you say no to creating a new database for one reason or another, I can add the songs that don't exist until tomorrow and correct the song_ids. I found out how to do it 🤓 I await your response.
