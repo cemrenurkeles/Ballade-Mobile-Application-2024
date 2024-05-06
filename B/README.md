@@ -56,4 +56,5 @@ After the modifications in excel, the data was still not ready. There were still
 - The number of # and TRUE & FALSE was checked to ensure the correct number of data.
 - This data was brought into the program to use and produce the SQL code to add a column. Then, the code that my programme provided was taken to Supabase. During each addition of SQL code to Supabase: "new query"s were created to go back to the steps if something went wrong.
 - Same steps were repeated to add columns to the database.
+
 **On May 1st, this documentation was created on GitHub to explain the actions.**
