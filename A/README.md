@@ -10,4 +10,4 @@ Code is initiated to add them, revealing another issue: When adding a new song, 
 
 Efforts are made to solve this issue, leading to the discovery of problems within the database.
 
-**On April 28th, the idea of creating a new database is proposed.**
+**On April 28th, the idea of creating a new database is proposed by me.**
