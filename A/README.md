@@ -1,13 +1,13 @@
-## Précisions sur les étapes de mon travail de de 25 avril au 28 avril ##
+# Steps of my work from April 25th to April 28th
 
-## Tache : Ajouter les chansons manquants ##
+## Task: Adding missing songs ##
 
-1a) Je convertis les noms des chansons en list C pour pouvoir les utiliser dans mon programme avec ChatGPT.
+The song names are converted into a C list to be used in the program with ChatGPT.
 
-1b) Je programme un programme en C pour les comparer. J'ajoute des virgules à la fin des chansons trouvées pour les distinguer des autres et j'utilise un tableau Excel pour repérer l'emplacement des chansons manquantes.
+A C program is developed to compare them. Commas are added at the end of the found songs to distinguish them from others, and an Excel sheet is used to identify the location of missing songs.
 
-1c) Je commence à écrire du code pour les ajouter et je m'aperçois qu'un autre problème existe : En ajoutant une nouvelle chanson, je constate que les identifiants ne sont pas automatiquement mis à jour et que ça perturbe l'ordre alphabétique.
+Code is initiated to add them, revealing another issue: When adding a new song, it's observed that the identifiers are not automatically updated, disrupting the alphabetical order.
 
-1d) Je commence à essayer de résoudre ce problème puis je me retrouve à repérer des problèmes dans la base de données.
+Efforts are made to solve this issue, leading to the discovery of problems within the database.
 
-1e) Le 28 avril, je propose l'idée de créer une nouvelle base de données.
+**On April 28th, the idea of creating a new database is proposed.**
