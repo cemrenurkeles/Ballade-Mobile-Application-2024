@@ -15,3 +15,9 @@ Result: successfully created, + program to add a column
 - **GitHub documentation**: From May 1st 2024 to May 6th 2024
 
  Result: successfully created, + studying Dart on the side
+
+ - **Listing files from FTP server**: From May 1st 2024 to May 6th 2024
+
+Directory C for the files
+
+ Result: 
