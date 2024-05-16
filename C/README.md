@@ -2,7 +2,7 @@
 
 ### Step 1 : Connecting to FTP server
 To be able to manipulate the files' names from my terminal (Mac), connected to FTP server using its SSH key :
-
+Maked sure to add my laptop's IP adress.
 ```bash
   ssh nom_utilisateur@hôte
 ```
@@ -25,4 +25,7 @@ The previous command will list the files' names by placing a point at the beginn
 ![a](/C/a.png)
 
 The point '.' represents the le nom de domaine. For example for CV.html :
-The link to it should be http://nom_de_domaine.net/CV.html
+The link to it should be http://domain_name.net/CV.html
+So '.' should be replaced by http://domain_name.net/. (It will be replaced by the program so did not change it now.)
+
+### Problem : some of the songs does not have some files = the cell should be false 
