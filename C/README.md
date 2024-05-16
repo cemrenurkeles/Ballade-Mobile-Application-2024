@@ -28,4 +28,4 @@ The point '.' represents the le domain name. For example for CV.html :
 The link to it should be http://domain_name.net/CV.html
 So '.' should be replaced by http://domain_name.net/. (It will be replaced by the program so did not change it now.)
 
-### Problem : some of the songs does not have some files = the cell should be false 
+### Problem : some of the songs does not have some files = the cells should be false 
