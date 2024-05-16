@@ -18,6 +18,6 @@ Result: successfully created, + program to add a column
 
  - **Listing files from FTP server**: From May 6th 2024 -> at the moment
 
-Directory C for the files
+> Directory C for the files
 
  Result: coming soon
