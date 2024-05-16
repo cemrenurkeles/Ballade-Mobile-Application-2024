@@ -23,3 +23,6 @@ For example, if you want to find only pdf files :
 The previous command will list the files' names by placing a point at the beginning of them. Like the following image :
 
 ![a](/C/a.png)
+
+The point '.' represents the le nom de domaine. For example for CV.html :
+The link to it should be http://nom_de_domaine.net/CV.html
