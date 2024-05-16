@@ -16,7 +16,7 @@ Result: successfully created, + program to add a column
 
  Result: successfully created, + studying Dart on the side
 
- - **Listing files from FTP server**: From May 1st 2024 to May 6th 2024
+ - **Listing files from FTP server**: From May 6th 2024 to 
 
 Directory C for the files
 
