@@ -19,3 +19,6 @@ For example, if you want to find only pdf files :
 ```bash
   find -type f -iname "*.pdf"
 ```
+### Step 3 : Exporting these files' links to the database
+The previous command will list the files' names by placing a point at the beginning of them. Like the following image :
+
